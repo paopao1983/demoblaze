@@ -4,6 +4,7 @@ Conclusiones del Ejercicio realizado.
 git clone https://github.com/paopao1983/demoblaze.git
 
 2. De igual manera, el proyecto .zip lo compartiré por drive para facilidad de la revision.
+https://drive.google.com/file/d/1dsSTjsLr2xsejTWwA0gsq-uCK8Ta36sN/view?usp=sharing
 
 3. Previo a este ejercicio no habia trabajado con testing de APIs utilizando cypress así que fue 
 una excelente oportunidad. He trabajado APIS utilziando herramientas como postman.
