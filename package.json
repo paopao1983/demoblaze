@@ -1,0 +1,15 @@
+{
+  "name": "neoris_api_test",
+  "version": "1.0.0",
+  "description": "Prueba de automatizacion dos, para aplicar a oferta laboral como Quality Assurance - Parte 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandra Castro",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^12.8.1"
+  }
+}

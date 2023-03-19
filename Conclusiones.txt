@@ -1,0 +1,12 @@
+Conclusiones del Ejercicio realizado.
+
+1. El proyecto se encuentra en un repositorio de github para facilidad de mantenimiento.
+git clone https://github.com/paopao1983/demoblaze.git
+
+2. De igual manera, el proyecto .zip lo compartiré por drive para facilidad de la revision.
+
+3. Previo a este ejercicio no habia trabajado con testing de APIs utilizando cypress así que fue 
+una excelente oportunidad. He trabajado APIS utilziando herramientas como postman.
+
+4. Utilicé una librería externa llamada Faker, para generar data aleatoria requerida en el API
+de SignUp.
